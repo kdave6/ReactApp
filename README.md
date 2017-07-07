@@ -1,3 +1,3 @@
 # ReactApp
 
-Following Udemy - React Redux videos
+Following Udemy - https://www.udemy.com/react-redux/
